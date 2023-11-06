@@ -30,3 +30,7 @@
 ####project 3: Display data visually for traders
 -[github repository](https://github.com/fayscys/forage-jpmc-swe-task-3) 
 -task description: using perspective to generate a live graph that displays the data feed in a clear and visually appealing way for traders to monitor.
+
+####project 4: IV_pays
+-[github repository](https://github.com/fayscys/IV_pays)
+-task description: using django to build the backend of a mobile banking app.
