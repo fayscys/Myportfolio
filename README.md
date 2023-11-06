@@ -27,10 +27,10 @@
  -[github repository](https://github.com/fayscys/forage-jpmc-swe-task-2)
  -task description: fixing the client-side web application so that it displays a graph that automatically updates as it gets data from the server application.
 
-####project 3: Display data visually for traders
+#### project 3: Display data visually for traders
 -[github repository](https://github.com/fayscys/forage-jpmc-swe-task-3) 
 -task description: using perspective to generate a live graph that displays the data feed in a clear and visually appealing way for traders to monitor.
 
-####project 4: IV_pays
+#### project 4: IV_pays
 -[github repository](https://github.com/fayscys/IV_pays)
 -task description: using django to build the backend of a mobile banking app.
