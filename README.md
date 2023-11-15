@@ -33,4 +33,7 @@
 
 #### project 4: IV_pays
 -[github repository](https://github.com/fayscys/IV_pays)
--task description: using django to build the backend of a mobile banking app.
+-task description: using django, django REST framework to build the backend of a mobile banking app.
+#### project 5: GMAC
+- [github repository](https://github.com/fayscys/GMAC)
+- task description: using django, django REST framework to build the backend of a web app for content creators, developers.
